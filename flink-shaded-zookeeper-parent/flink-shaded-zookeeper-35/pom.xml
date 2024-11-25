@@ -33,7 +33,7 @@ under the License.
     <version>3.5.10.3.2.3-17.0</version>
 
     <properties>
-        <zookeeper.version>3.5.10.3.2.3.2-2</zookeeper.version>
+        <zookeeper.version>3.5.10.3.2.3.3-2</zookeeper.version>
         <curator.version>5.4.0</curator.version>
     </properties>
 
