@@ -30,10 +30,10 @@ under the License.
 
     <artifactId>flink-shaded-zookeeper-3${flink.ci.license.suffix}</artifactId>
     <name>flink-shaded-zookeeper-3.6</name>
-    <version>${zookeeper.version}-22.0</version>
+    <version>3.8.6.3.4.3-22.0</version>
 
     <properties>
-        <zookeeper.version>3.6.4</zookeeper.version>
+        <zookeeper.version>3.8.6.3.4.3.0-1005</zookeeper.version>
         <curator.version>5.9.0</curator.version>
     </properties>
 
